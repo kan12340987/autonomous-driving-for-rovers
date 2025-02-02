@@ -1,4 +1,4 @@
-# autonomous-driving-for-rovers
+# Autonomous Driving For Rovers
 
 This was a POC on introducing autodriving capabilities to a rover was developed as a final sem project. Autonomous path planning for rovers removes huge manual efforts required in manning a rover. This also results in significant time reduction. This POC was done by using technologies like Neural networks, image stitching and 3D reconstruction. 
 
